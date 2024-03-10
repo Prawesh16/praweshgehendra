@@ -1,6 +1,6 @@
 #Understanding Market Dynamics of Global Events
 
-[](https://ibb.co/M2DkCK1)
+[]([https://ibb.co/M2DkCK1](https://i.ibb.co/NV62yfN/1.png))
 **Authors:** Prawesh Belbase (207016) and Gehendra Dangi (207030)
 
 > In today's interconnected global economy, understanding the intricate
@@ -31,7 +31,7 @@
 > prompted widespread lockdowns, travel restrictions, and unprecedented
 > public health measures. The crisis officially ended on May 11, 2023.
 >
-> <img src="media/image2.jpeg" style="width:5.225in;height:3.17232in" alt="COVID-19 Response | United Nations" />
+[]([https://i.ibb.co/njg40mt/2.jpg)) 
 >
 > This unprecedented global crisis affected the dynamics of the stock
 > market, creating volatility and altering investor sentiment. The
