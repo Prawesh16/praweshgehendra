@@ -1,7 +1,8 @@
-# Understanding Market Dynamics of Global Events
+<h1 align="center"> Understanding Market Dynamics of Global Events </h1>
 
-![](https://github.com/Prawesh16/praweshgehendra/blob/main/1.png?raw=true)
-### Authors: Prawesh Belbase (207016) and Gehendra Dangi (207030)
+![](https://github.com/Prawesh16/praweshgehendra/blob/main/1.png?raw=true|align="center")
+
+#### Authors: Prawesh Belbase (207016) and Gehendra Dangi (207030)
 
 In today's interconnected global economy, understanding the intricate market dynamics shaped by significant global events is paramount. The unprecedented challenges brought forth by events like the Covid-19 pandemic and the Russian invasion of Ukraine have had profound impacts across various sectors worldwide. This analysis aims to investigate into the market responses to these crises, focusing particularly on the top 100 US companies by market capitalization.
 By exploring the change in stock performance prior to and following recent major international events such as the Covid-19 pandemic and the Russian invasion of Ukraine, patterns and trends in a variety of industries are identified. In order to shed light on the resilience and vulnerability of the top 100 US companies by market capitalization, particular attention is paid to identifying the winners and losers among them. The main objective is to advance knowledge of the complex connections between world events and how they affect market dynamics.
@@ -15,8 +16,10 @@ The Covid-19 pandemic, initially detected in the US on January 21, 2020, marked 
 This unprecedented global crisis affected the dynamics of the stock market, creating volatility and altering investor sentiment. The pandemic caused severe downturns in market indices, supply chain disruptions, and mass unemployment amid widespread lockdowns and economic disruptions. Nonetheless, coordinated efforts to develop vaccines and implement public health initiatives ultimately signaled a turning point. Despite the tragedy, such catastrophic events does help us to analyze how such global events impact the stock market dynamics.
 
 ### Sector Analysis
-![](https://github.com/Prawesh16/praweshgehendra/blob/main/3.png?raw=true)
-![](https://github.com/Prawesh16/praweshgehendra/blob/main/4.png?raw=true)
+<p float="left">
+  <img src="https://github.com/Prawesh16/praweshgehendra/blob/main/3.png?raw=true" width="800" />
+  <img src="https://github.com/Prawesh16/praweshgehendra/blob/main/4.png?raw=true" width="800" /> 
+</p>
 
 The Covid-19 pandemic industry winners were made by massive consumerism due to time spent on home. This consumerism was also on electronic technology devices. Health technology and health services did see a massive increase but the industry winners were limited to 2 to 3 companies. Communities and Utilities were the losers of the market. As office work transferred to online calls. Utilities suffered a massive shock due to high inflation and interest rate during the Covid-19 pandemic.
 
@@ -36,8 +39,10 @@ Russia's invasion of Ukraine, a geopolitical flashpoint that had far-reaching ef
 Throughout the conflict, which officially began February 24, 2022 and continues to March, 2024, stock market has been in turmoil followed by an economic recession. In this interconnected world, this humanitarian tragedy will assist us understand how market reacts to such events.
 
 ### Sector Analysis
-![](https://github.com/Prawesh16/praweshgehendra/blob/main/8.png?raw=true)
-![](https://github.com/Prawesh16/praweshgehendra/blob/main/9.png?raw=true)
+<p float="left">
+  <img src="https://github.com/Prawesh16/praweshgehendra/blob/main/8.png?raw=true" width="800" />
+  <img src="https://github.com/Prawesh16/praweshgehendra/blob/main/9.png?raw=true" width="800" /> 
+</p>
 
 As Covid-19 was gradually thinning out at the beginning of this invasion, not much overlapping effects of Covid-19 pandemic and the invasion can be seen. Following Russian invasion and sanctions on Russia, production, manufacturing and logistics companies saw a massive boost in its share. Energy Minerals have seen a 26% increase in share price as these companies have distributed highest profit to date. Consumer items following a massive spike in Covid-19 saw a decrease as market started to open. This is a massive reason behind the decrease in consumer goods. Real estate already affected by Covid-19 is further affected by increasing interest rates and economic recession.
 
