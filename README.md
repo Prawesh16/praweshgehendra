@@ -2,6 +2,7 @@
 #### Authors: Prawesh Belbase (207016) and Gehendra Dangi (207030)
 
 In today's interconnected global economy, understanding the intricate market dynamics shaped by significant global events is paramount. The unprecedented challenges brought forth by events like the Covid-19 pandemic and the Russian invasion of Ukraine have had profound impacts across various sectors worldwide. This analysis aims to investigate into the market responses to these crises, focusing particularly on the top 100 US companies by market capitalization.
+
 By exploring the change in stock performance prior to and following recent major international events such as the Covid-19 pandemic and the Russian invasion of Ukraine, patterns and trends in a variety of industries are identified. In order to shed light on the resilience and vulnerability of the top 100 US companies by market capitalization, particular attention is paid to identifying the winners and losers among them. The main objective is to advance knowledge of the complex connections between world events and how they affect market dynamics.
 
 ## Covid-19 Pandemic
@@ -33,6 +34,7 @@ The losers of the Covid-19 pandemic are somewhat predictable. Energy services sa
 ![](https://github.com/Prawesh16/praweshgehendra/blob/main/7.jpg?raw=true)
 
 Russia's invasion of Ukraine, a geopolitical flashpoint that had far-reaching effects left a seismic fallout in stock market. The invasion rocked world markets starting on February 24, 2022, changing investor mood and market dynamics. Uncertainty spread throughout industries as military tensions increased, causing volatility and rearranging market indices. The invasion highlighted the precarious state of international relations and geopolitical stability with its humanitarian crises and geopolitical repercussions. The unrest caused stock prices and investor confidence to fluctuate as investors struggled with increased geopolitical risk.
+
 Throughout the conflict, which officially began February 24, 2022 and continues to March, 2024, stock market has been in turmoil followed by an economic recession. In this interconnected world, this humanitarian tragedy will assist us understand how market reacts to such events.
 
 ### Sector Analysis
