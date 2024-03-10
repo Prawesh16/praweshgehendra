@@ -1,7 +1,6 @@
-**Understanding Market Dynamics of Global Events**
+#Understanding Market Dynamics of Global Events
 
-[](https://github.com/Prawesh16/praweshgehendra/blob/main/1.png)
-
+[](https://ibb.co/M2DkCK1)
 **Authors:** Prawesh Belbase (207016) and Gehendra Dangi (207030)
 
 > In today's interconnected global economy, understanding the intricate
@@ -22,7 +21,7 @@
 > knowledge of the complex connections between world events and how they
 > affect market dynamics.
 
-**Covid-19 Pandemic**
+##Covid-19 Pandemic
 
 > The Covid-19 pandemic, initially detected in the US on January 21,
 > 2020, marked a watershed moment in modern history. Its rapid spread
@@ -43,7 +42,7 @@
 > turning point. Despite the tragedy, such catastrophic events does help
 > us to analyze how such global events impact the stock market dynamics.
 
-**Russian Invasion of Ukraine**
+##Russian Invasion of Ukraine**
 
 > Russia's invasion of Ukraine, a geopolitical flashpoint that had
 > far-reaching effects left a seismic fallout in stock market. The
