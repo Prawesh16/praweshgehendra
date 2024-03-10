@@ -1,6 +1,6 @@
 **Understanding Market Dynamics of Global Events**
 
-<img src="media/image1.png" style="width:5.08333in;height:3.13333in" alt="Understanding the Impact of Global Economic Events on Stock Market Trends 2023 - MDstockmagic" />
+<img src="media/image1.png" style="width:5.08333in;height:3.13333in" alt="Understanding the Impact of Global Economic Events on Stock Market Trends 2023" />
 
 **Authors:** Prawesh Belbase (207016) and Gehendra Dangi (207030)
 
