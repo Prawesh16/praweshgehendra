@@ -1,6 +1,6 @@
 **Understanding Market Dynamics of Global Events**
 
-<[alt text](https://github.com/[Prawesh16]/[praweshgehendra]/blob//1.jpg?raw=true) />
+<[Market](https://github.com/Prawesh16/praweshgehendra/blob/main/1.png?raw=true) />
 
 **Authors:** Prawesh Belbase (207016) and Gehendra Dangi (207030)
 
