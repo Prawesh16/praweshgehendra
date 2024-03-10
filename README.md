@@ -1,7 +1,4 @@
 <h1 align="center"> Understanding Market Dynamics of Global Events </h1>
-
-![](https://github.com/Prawesh16/praweshgehendra/blob/main/1.png?raw=true)
-
 #### Authors: Prawesh Belbase (207016) and Gehendra Dangi (207030)
 
 In today's interconnected global economy, understanding the intricate market dynamics shaped by significant global events is paramount. The unprecedented challenges brought forth by events like the Covid-19 pandemic and the Russian invasion of Ukraine have had profound impacts across various sectors worldwide. This analysis aims to investigate into the market responses to these crises, focusing particularly on the top 100 US companies by market capitalization.
